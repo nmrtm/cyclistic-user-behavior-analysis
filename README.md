@@ -116,7 +116,7 @@ In a future version, I plan to include:
 
 ## 📁 Files & Assets
 
-- `cyclistic_analysis.R`: Full R script (also linked on Kaggle)
+- `cyclistic_analysis_notebook.ipynb`: Jupyter Notebook version of the project (downloaded from Kaggle)
 - `README.md`: This project overview
 - Tableau visual slide deck: [View here](https://public.tableau.com/views/Cyclistic-BikeShareCaseStudy_16966064333810/CyclisticBikeShare)
 
