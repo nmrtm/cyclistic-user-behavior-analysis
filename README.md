@@ -1,10 +1,10 @@
-# 🚲 Cyclistic User Behavior Analysis
+# 🚲 Cyclistic User Behaviour Analysis
 
 ## 📍 Project Overview
 
-In this project, I analyzed a fictional bike share company’s usage data using **R** and **Tableau** to identify trends and strategies for converting **casual riders into annual members**.
+In this project, I analysed a fictional bike share company’s usage data using **R** and **Tableau** to identify trends and strategies for converting **casual riders into annual members**.
 
-Findings showed that casual riders tend to take longer rides, especially in the summer. Based on the insights, I proposed **targeted marketing campaigns and membership offers** to improve user retention and engagement.
+The findings showed that casual riders tend to take longer rides, especially during the summer. Based on the insights, I proposed **targeted marketing campaigns and membership offers** to improve user retention and engagement.
 
 ---
 
